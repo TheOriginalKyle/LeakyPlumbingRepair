@@ -1,0 +1,200 @@
+Test 1
+		Leaky Plumbing Repair Company
+			Service Charges
+
+Plumber's Name (Last, First) > Service Date (mm/dd/yyyy) > Start Time > End Time > 
+Date Printed: 02/07/2017
+Plumber: Bohlander, Kyle
+
+Friday, 01/20/2017
+8:00 AM - 10:00 AM
+
+Charges:
+Type		Rate		Qty		Amount
+Day		$52.00		2.0		$104.00		
+
+Minimum 2 hours applies: No
+					Total Charge: $104.00
+Another Invoice (Y/N) >
+
+Test 2
+ 		Leaky Plumbing Repair Company
+			Service Charges
+
+Plumber's Name (Last, First) > Service Date (mm/dd/yyyy) > Start Time > End Time > 
+Date Printed: 02/07/2017
+Plumber: Bohlander, Kyle
+
+Friday, 01/20/2017
+5:00 PM - 7:00 PM
+
+Charges:
+Type		Rate		Qty		Amount
+Evening		$78.0		2.0		$156.00		
+
+Minimum 2 hours applies: No
+					Total Charge: $156.00
+Another Invoice (Y/N) >
+
+Test 3
+ 		Leaky Plumbing Repair Company
+			Service Charges
+
+Plumber's Name (Last, First) > Service Date (mm/dd/yyyy) > Start Time > End Time > 
+Date Printed: 02/07/2017
+Plumber: Bohlander, Kyle
+
+Friday, 01/20/2017
+4:00 PM - 6:00 PM
+
+Charges:
+Type		Rate		Qty		Amount
+Day		$52.00		1.0		$52.00		
+Evening		$78.0		1.0		$78.00		
+
+Minimum 2 hours applies: No
+					Total Charge: $130.00
+Another Invoice (Y/N) > 		
+
+Test 4
+		Leaky Plumbing Repair Company
+			Service Charges
+
+Plumber's Name (Last, First) > Service Date (mm/dd/yyyy) > Start Time > End Time > 
+Date Printed: 02/07/2017
+Plumber: Bohlander, Kyle
+
+Saturday, 01/21/2017
+12:00 PM - 1:00 PM
+
+Charges:
+Type		Rate		Qty		Amount
+Day		$76.00		1.0		$76.00		
+
+Minimum 2 hours applies: Yes
+
+				Total Charge: $152.00
+Another Invoice (Y/N) > 	
+
+Test 5
+		Leaky Plumbing Repair Company
+			Service Charges
+
+Plumber's Name (Last, First) > Service Date (mm/dd/yyyy) > Start Time > End Time > 
+Date Printed: 02/07/2017
+Plumber: Bohlander, Kyle
+
+Saturday, 01/21/2017
+4:00 PM - 7:00 PM
+
+Charges:
+Type		Rate		Qty		Amount
+Day		$76.00		1.0		$76.00		
+Evening		$114.0		2.0		$228.00		
+
+Minimum 2 hours applies: No
+					Total Charge: $304.00
+Another Invoice (Y/N) > 
+
+Test 6
+
+		Leaky Plumbing Repair Company
+			Service Charges
+
+Plumber's Name (Last, First) > Service Date (mm/dd/yyyy) > Start Time > End Time > 
+Date Printed: 02/07/2017
+Plumber: Bohlander, Kyle
+
+Saturday, 01/21/2017
+4:30 PM - 7:30 PM
+
+Charges:
+Type		Rate		Qty		Amount
+Day		$76.00		1.0		$76.00		
+Evening		$114.0		2.0		$228.00		
+
+Minimum 2 hours applies: No
+					Total Charge: $304.00
+Another Invoice (Y/N) > 		
+
+Test 7
+		Leaky Plumbing Repair Company
+			Service Charges
+
+Plumber's Name (Last, First) > Service Date (mm/dd/yyyy) > Start Time > End Time > 
+Date Printed: 02/07/2017
+Plumber: Bohlander, Kyle
+
+Sunday, 01/22/2017
+9:00 AM - 12:00 PM
+
+Charges:
+Type		Rate		Qty		Amount
+Day		$124.00		3.0		$372.00		
+
+Minimum 2 hours applies: No
+					Total Charge: $372.00
+Another Invoice (Y/N) > 	
+
+Test 8
+		
+		Leaky Plumbing Repair Company
+			Service Charges
+
+Plumber's Name (Last, First) > Service Date (mm/dd/yyyy) > Start Time > End Time > 
+Date Printed: 02/07/2017
+Plumber: Bohlander, Kyle
+
+Sunday, 01/22/2017
+3:00 PM - 6:00 PM
+
+Charges:
+Type		Rate		Qty		Amount
+Day		$124.00		2.0		$248.00		
+Evening		$186.0		1.0		$186.00		
+
+Minimum 2 hours applies: No
+					Total Charge: $434.00
+Another Invoice (Y/N) > 		
+
+Test 9		
+
+		Leaky Plumbing Repair Company
+			Service Charges
+
+Plumber's Name (Last, First) > Service Date (mm/dd/yyyy) > Start Time > End Time > 
+Date Printed: 02/07/2017
+Plumber: Bohlander, Kyle
+
+Sunday, 01/22/2017
+11:00 AM - 12:00 PM
+
+Charges:
+Type		Rate		Qty		Amount
+Day		$124.00		1.0		$124.00		
+
+Minimum 2 hours applies: Yes
+
+				Total Charge: $248.00
+Another Invoice (Y/N) > 	
+
+Test 10
+	
+		Leaky Plumbing Repair Company
+			Service Charges
+
+Plumber's Name (Last, First) > Service Date (mm/dd/yyyy) > Start Time > End Time > 
+Date Printed: 02/07/2017
+Plumber: Bohlander, Kyle
+
+Wednesday, 01/13/1999
+8:00 AM - 8:00 PM
+
+Charges:
+Type		Rate		Qty		Amount
+Day		$52.00		9.0		$468.00		
+Evening		$78.0		3.0		$234.00		
+
+Minimum 2 hours applies: No
+					Total Charge: $702.00
+Another Invoice (Y/N) > 
